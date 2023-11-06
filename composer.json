@@ -1,0 +1,19 @@
+{
+    "name": "endrolephp/yov",
+    "description": "HTML Templating Engine With PHP\u001b[D\u001b[D\u001b[Made With PHP",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Endrolephp\\Yov\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Zate Endrole",
+            "email": "zate.endrole@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
